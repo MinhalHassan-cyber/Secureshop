@@ -1,0 +1,19 @@
+101 40 13          Pencil Heels     | Shoes
+102 35 15          PUMA sneakers    | Shoes
+103 20 25          Devil Boots      | Shoes
+104 20 25          Angel Boots      | Shoes
+105 12 10          White sneakers   | Shoes
+106 12 7           Black sneakers   | Shoes
+107 20 8           Angel   Hoodie   | Outerwear
+108 20 8           Devil   Hoodie   | Outerwear
+109 15 9           Bomber  Jacket   | Outerwear
+110 15 10          Flannel          | Outerwear
+111 12 15          Leather Jacket   | Outerwear
+112 15 10           Bomber  Jacket   | Outerwear
+113 10 10           Plain   Jacket   | Outerwear
+114 35 10          Nike Trousers    | Bottoms
+115 20 10          Devil Trousers   | Bottoms
+116 20 10          Angel Trousers   | Bottoms
+117 25 8           Gurkha Pants     | Bottoms
+118 10 8           Plazo            | Bottoms
+119 25 4           Satanic Boots    | Shoes
